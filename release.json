@@ -1,0 +1,17 @@
+{
+  "github_owner": "gywan94",
+  "github_repo": "wechat-zero",
+  "author_display": "gywan94",
+  "author_email": "gywan94@users.noreply.github.com",
+  "share_code": "WXZR",
+  "package_name": "wechat-zero",
+  "app_name": "WeChat Zero",
+  "title_zh": "微信 Zero",
+  "summary": "WeChat iLink chat for Cardputer Zero with pinyin input and QR friend invites",
+  "summary_zh": "Cardputer Zero 上的微信 iLink 客户端，支持拼音输入与好友扫码邀请",
+  "categories": [
+    "Radio & Comms",
+    "Lifestyle"
+  ],
+  "license": "MIT"
+}

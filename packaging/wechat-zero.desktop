@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=WeChat Zero
+Name[zh_CN]=微信
+Comment=WeChat iLink chat with offline pinyin input
+Exec=/usr/share/APPLaunch/bin/wechat-zero
+Icon=/usr/share/APPLaunch/share/images/wechat-zero.png
+Terminal=false
+Categories=Network;Chat;
+StartupNotify=false
+Sysplause=true

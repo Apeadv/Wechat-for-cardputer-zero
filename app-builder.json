@@ -1,0 +1,44 @@
+{
+  "package_name": "wechat-zero",
+  "version": "1.1.0",
+  "app_name": "WeChat Zero",
+  "bin_name": "wechat-zero",
+  "description": "WeChat iLink client with offline pinyin input",
+  "store": {
+    "summary": "WeChat iLink chat for Cardputer Zero with pinyin input and QR friend invites",
+    "description": "WeChat Zero brings WeChat iLink chat to the M5Stack Cardputer Zero. Scan a QR code to log in, reply to incoming WeChat messages, and invite a friend by showing a second QR: once they confirm, the device can send them messages proactively. A built-in offline pinyin IME (77k entries) handles Chinese input on the 46-key keyboard, with multiple conversation channels, unread badges, remarks and persisted history.",
+    "categories": [
+      "Radio & Comms",
+      "Lifestyle"
+    ],
+    "screenshots": [
+      "packaging/screenshots/screenshot-0.png",
+      "packaging/screenshots/screenshot-1.png",
+      "packaging/screenshots/screenshot-2.png",
+      "packaging/screenshots/screenshot-3.png"
+    ],
+    "icon": "packaging/icon-256.png",
+    "license": "MIT",
+    "source_repo": "https://github.com/gywan94/wechat-zero",
+    "author": {
+      "github": "gywan94",
+      "display_name": "gywan94"
+    },
+    "share_code": "WXZR",
+    "permissions": {
+      "camera": false,
+      "microphone": false,
+      "imu": false,
+      "network": true,
+      "additional_hardware": false,
+      "background_service": false,
+      "external_display": false
+    },
+    "locales": {
+      "zh-CN": {
+        "title": "微信 Zero",
+        "summary": "Cardputer Zero 上的微信 iLink 客户端，支持拼音输入与好友扫码邀请"
+      }
+    }
+  }
+}

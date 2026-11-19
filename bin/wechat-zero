@@ -1,0 +1,5 @@
+#!/bin/sh
+# APPLaunch / shell entry point for wechat-zero.
+export LANG="${LANG:-C.UTF-8}"
+export PYTHONIOENCODING=utf-8
+exec /usr/bin/python3 /opt/wechat-zero/wechat.py "$@"
